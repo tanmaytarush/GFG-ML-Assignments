@@ -1,0 +1,76 @@
+# Machine Learning Course - Readme
+
+## Course Overview
+
+This repository contains materials and code for the Machine Learning course I attended on GeeksForGeeks. The course covered various topics related to Machine Learning, including but not limited to:
+
+- Introduction to Machine Learning
+- Supervised Learning
+- Unsupervised Learning
+- Deep Learning
+- Model Evaluation and Selection
+- Feature Engineering
+- Data Preprocessing
+- etc.
+
+## Course Contents
+
+- **Module 1:** Introduction to Machine Learning
+  - Introduction to ML and its applications
+  - Types of Machine Learning algorithms
+  - Setting up the development environment
+
+- **Module 2:** Supervised Learning
+  - Linear Regression
+  - Logistic Regression
+  - Decision Trees and Random Forests
+  - Support Vector Machines (SVM)
+  - Model evaluation metrics
+
+- **Module 3:** Unsupervised Learning
+  - Clustering algorithms (K-Means, DBSCAN, etc.)
+  - Dimensionality reduction techniques (PCA, t-SNE, etc.)
+  - Anomaly detection
+
+- **Module 4:** Deep Learning
+  - Neural Networks and Architecture
+  - Activation Functions
+  - Backpropagation
+  - Convolutional Neural Networks (CNNs)
+  - Recurrent Neural Networks (RNNs)
+
+- **Module 5:** Model Evaluation and Selection
+  - Cross-Validation
+  - Hyperparameter tuning
+  - Bias-Variance Tradeoff
+  - Ensemble methods
+
+- **Module 6:** Feature Engineering and Data Preprocessing
+  - Feature selection
+  - Handling missing data
+  - Feature scaling and normalization
+  - One-Hot encoding and feature transformation
+
+## How to Use This Repository
+
+1. Clone the repository to your local machine using the following command:
+
+2. Install the required dependencies using `pip` or `conda`. Use a virtual environment for better isolation.
+
+3. Navigate to the respective module directories to access the code and materials for each topic.
+
+## Additional Notes
+
+- The code and materials in this repository are for educational purposes only and may not cover all aspects of Machine Learning.
+
+- If you encounter any issues or have any questions, feel free to open an issue in this repository.
+
+- Please make sure to adhere to the GeeksForGeeks terms and conditions and use the materials responsibly.
+
+## Acknowledgments
+
+I would like to express my gratitude to the instructors and mentors at GeeksForGeeks for providing valuable insights and knowledge during this Machine Learning course.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
